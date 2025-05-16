@@ -18,8 +18,8 @@ A modern showcase of my creative work and professional journey. This portfolio r
 
 ## Contact
 Let's connect! Reach me through:
-- [LinkedIn](#) *(add your LinkedIn URL)*
-- [Email](mailto:your@email.com)
+- [LinkedIn](#) *(https://www.linkedin.com/in/bona-abebe-a0a535313 )*
+- [Email](mailto:bonaabebe14@gmail.com)
 
 ---
 
